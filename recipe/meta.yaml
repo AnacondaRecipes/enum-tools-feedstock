@@ -23,8 +23,6 @@ requirements:
   host:
     - python
     - pip
-    - wheel
-    - setuptools
     - whey >=0.0.20
   run:
     - python
